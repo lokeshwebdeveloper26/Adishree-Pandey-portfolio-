@@ -577,20 +577,20 @@ export const modelData: ModelData = {
    * Videos never autoplay with sound.
    */
   videos: [
-  /**{
-    title: "Adishree PandeyModel Shoot",
-    category: "Fashion",
+  {
+    title: "Adishree Pandey Model Shoot",
+    category: "LIVE ADVERTISEMENT RECORDING FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name.mp4",
+    src: "/portfolio/videos/Adishree Pandey (1).mp4",
     type: "mp4",
   },
   {
-    title: "Adishree PandeyModel Shoot",
-    category: "Fashion",
+    title: "Adishree Pandey Model Shoot",
+    category: "RAW Video FOOTAGE",
     thumbnail: "/portfolio/profile.JPG",
-    src: "/portfolio/videos/Video-name-compressed.mp4",
+    src: "/portfolio/videos/Adishree Pandey.mp4",
     type: "mp4",
-  },*/
+  },
 ],
 
    
